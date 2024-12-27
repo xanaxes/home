@@ -1,0 +1,11 @@
+{
+  "accentColor": "#f5a65c",
+  "interfaceFontFamily": "Leelawadee UI",
+  "textFontFamily": "Iosevka Nerd Font",
+  "monospaceFontFamily": "CodeNewRoman Nerd Font Mono",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "cssTheme": ""
+}
